@@ -14,6 +14,8 @@ BeibeiCash Source Codes / 贝贝财务源码
 
 [Sourcecodes](./sourcecodes.zip)
 
+Project based on [GnuCash](https://www.gnucash.org/).
+
 # License
 
 [GPL 2.0](./LICENSE)
